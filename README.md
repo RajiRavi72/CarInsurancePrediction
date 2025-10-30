@@ -112,7 +112,3 @@ Raji Ravi
 Machine Learning Engineer & Data Science Enthusiast
 📍 India
 
-🏁 Next Steps
-Improve recall using SMOTE or ensemble stacking.
-Try CatBoost and XGBoost for comparison.
-Deploy the model on Streamlit Cloud or AWS.
