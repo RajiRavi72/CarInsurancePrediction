@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+
+# Data files
+car_insurance_data/
+*.csv
+*.xlsx
+
+# Model and preprocessor files
+*.pkl
+
+# Power BI files
+*.pbix
+
+# HTML reports
+*.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode or Jupyter checkpoints
+.ipynb_checkpoints/
+.vscode/
